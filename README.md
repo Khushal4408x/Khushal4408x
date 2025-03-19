@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on open-source projects related to Python, Machine Learning, and Web Development.  
 - 📫 How to reach me: You can contact me via email or connect with me on LinkedIn.  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can do 7 pull-ups and solve coding problems at the same time! 🚀  
+- ⚡ Fun fact: I can do 7 pull-ups and debug my code at the same time... well, at least one of those things successfully.
+
 
 
 <!---
